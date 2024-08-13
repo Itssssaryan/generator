@@ -1,0 +1,10 @@
+.di{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f8f8f8;
+    font-family: 'Poppins', sans-serif;
+
+
+}
